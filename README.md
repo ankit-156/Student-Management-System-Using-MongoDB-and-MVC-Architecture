@@ -192,6 +192,16 @@ http://localhost:3000
 ## 🧰 Troubleshooting
 - **MongoDB connection error** → Make sure `mongod` is running.  
 - **CastError (ObjectId)** → Invalid MongoDB `_id`.  
-- **Validation error** → Ensure all required fields (`name`, `age`, `course`) are provided.  
+- **Validation error** → Ensure all required fields (`name`, `age`, `course`) are provided.
+
+## 🖼️ OUTPUT
+
+![Output 1](./OUTPUT/Screenshot%202025-10-05%20225407.png)
+![Output 2](./OUTPUT/Screenshot%202025-10-05%20225619.png)
+![Output 3](./OUTPUT/Screenshot%202025-10-05%20225704.png)
+![Output 4](./OUTPUT/Screenshot%202025-10-05%20225758.png)
+
+
+
 
 
